@@ -1,6 +1,6 @@
 # NFT MINTING PROJECT
 
-*To see the project website on rinkeby go: *
+**To see the project website on the rinkeby testnet go to: https://nft-minting-portfolio.web.app/**
 
 
 
