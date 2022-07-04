@@ -1,0 +1,45 @@
+img {
+    height: 165px;
+}
+
+.questionMark img {
+    height: 900px;
+    width: 900px;
+}
+
+.imgDiv {
+    display: flex;
+    justify-content: space-between;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-bottom: 20%;
+    /* outline: 1px solid black; */
+}
+
+.imgDiv button {
+    width: 80px;
+    background-color: rgb(21, 20, 20);
+    color: yellow;
+    border: none;
+}
+
+.imgDiv p {
+    margin: 0%;
+}
+
+.imgDiv h5 {
+    font-weight: 700;
+}
+
+.imgDiv button:hover {
+    background-color: rgba(43, 39, 39, 0.781);
+}
+
+
+.imageContainer {
+    margin-left: 10%;
+    margin-right: 10%;
+}

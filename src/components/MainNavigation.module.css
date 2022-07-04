@@ -1,0 +1,13 @@
+.Nav {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    align-items: center;
+    background-color: rgba(19, 16, 16, 0.881);
+}
+
+.Nav h1 {
+    margin-right: 10%;
+    color: white;
+    font-weight: 900;
+}
